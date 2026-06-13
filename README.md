@@ -1,7 +1,7 @@
 ## Marina Vorobieva
 **Data analyst: Commercial, Marketing, Marketplace**
 
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
@@ -24,5 +24,3 @@
 
   <br>
         
-<img align="rigth" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="220" height="220" hspace="0" style="margin-right: 0 px;">
- 
