@@ -1,6 +1,5 @@
 ## Marina Vorobieva
 **Data analyst: Commercial, Marketing, Marketplace**
-
   <br>
   <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
