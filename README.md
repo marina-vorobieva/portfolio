@@ -6,7 +6,7 @@
 #### 📫 Контакты: 
 - Saint-Petersburg
 - Phone: +7 931 101-50-56
-- E-mail: marina.vorobieva92@mail.ru, marisabellich@gmail.com
+- E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
   
 
