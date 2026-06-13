@@ -14,7 +14,7 @@
 </div>
 
 
-   <h3 style="margin-top: 0;"> Контакты</h3>
+   <h3 style="margin-top: 0;"> Контакты: </h3>
       <ul style="margin: 0;">
         <li> Saint-Petersburg</li>
         <li> Phone: +7 931 101-50-56</li>
