@@ -21,6 +21,8 @@
         <li> Telegram: @marisabellich</li>
         <br>
   <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
-<br>
-<img align="rigth" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="220" height="220" hspace="0" style="margin-right: 10 px;">
+
+  <br>
+        
+<img align="rigth" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="220" height="220" hspace="0" style="margin-right: 0 px;">
  
