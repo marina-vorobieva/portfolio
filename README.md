@@ -1,17 +1,6 @@
 ## Marina Vorobieva
 **Data analyst: Commercial, Marketing, Marketplace**
 
-
-
-   <h3 style="margin-top: 0;"> Контакты</h3>
-      <ul style="margin: 0;">
-        <li> Saint-Petersburg</li>
-        <li> Phone: +7 931 101-50-56</li>
-        <li> E-mail: marina.vorobieva92@mail.ru</li>
-        <li> Telegram: @marisabellich</li>
-        <br>
-  <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
-
   <br>
   <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -24,4 +13,15 @@
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
+
+
+   <h3 style="margin-top: 0;"> Контакты</h3>
+      <ul style="margin: 0;">
+        <li> Saint-Petersburg</li>
+        <li> Phone: +7 931 101-50-56</li>
+        <li> E-mail: marina.vorobieva92@mail.ru</li>
+        <li> Telegram: @marisabellich</li>
+        <br>
+  <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
+
         
