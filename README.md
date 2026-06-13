@@ -1,6 +1,6 @@
 ## Marina Vorobieva
 **Data analyst: Commercial, Marketing, Marketplace**
-<img align="left" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="200" height="200">
+<img align="left" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="200" height="200" hspace="30">
 
 #### 📫 Контакты: 
 - Saint-Petersburg
