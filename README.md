@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
 
-<img align="rigth" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="220" height="220" hspace="0" style="margin-right: 10 px;">
- 
    <h3 style="margin-top: 0;"> Контакты</h3>
       <ul style="margin: 0;">
         <li> Saint-Petersburg</li>
@@ -24,3 +22,5 @@
         <br>
   <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
 <br>
+<img align="rigth" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="220" height="220" hspace="0" style="margin-right: 10 px;">
+ 
