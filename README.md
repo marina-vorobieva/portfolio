@@ -1,10 +1,10 @@
 ## Marina Vorobieva
- **Data analyst: Commercial, Marketing, Marketplace**
+ <h3 **Data analyst: Commercial, Marketing, Marketplace** </h3>
  
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="60" style="margin-right: 10 px;">
   <div>
-    <h3 style="margin-top: 0;">Привет! Я Марина </h3>
+    <h4 style="margin-top: 0;">Привет! Я Марина </h4>
     <ul style="margin: 0;">
        У меня высшее маркетинговое образование</li>
        И мне нравится выбранная профессия. </li>
