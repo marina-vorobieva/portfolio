@@ -1,10 +1,11 @@
 ## Marina Vorobieva
- <h3 **Data analyst: Commercial, Marketing, Marketplace** </h3>
+
+# **Data analyst: Commercial, Marketing, Marketplace** 
  
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="60" style="margin-right: 10 px;">
   <div>
-    <h4 style="margin-top: 0;">Привет! Я Марина </h4>
+    <h3 style="margin-top: 0;">Привет! Я Марина </h3>
     <ul style="margin: 0;">
        У меня высшее маркетинговое образование</li>
        И мне нравится выбранная профессия. </li>
@@ -39,15 +40,7 @@
 - Figma, Miro, Power Point, Adobe
  <br>
 
-<h2 style="margin-top: 0;"> Контакты: </h2>
-      <ul style="margin: 0;">
-        <li> Saint-Petersburg</li>
-        <li> Phone: +7 931 101-50-56</li>
-        <li> E-mail: marina.vorobieva92@mail.ru</li>
-        <li> Telegram: @marisabellich</li>
-        <br>
-      
-
+ 
   <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="pointer-events: none; height: 20 px;" />
@@ -59,3 +52,11 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
+
+<h2 style="margin-top: 0;"> Контакты: </h2>
+      <ul style="margin: 0;">
+        <li> Saint-Petersburg</li>
+        <li> Phone: +7 931 101-50-56</li>
+        <li> E-mail: marina.vorobieva92@mail.ru</li>
+        <li> Telegram: @marisabellich</li>
+        <br>
