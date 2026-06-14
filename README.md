@@ -29,7 +29,8 @@
 - Делаю прогнозы управленческих метрик на основе исторических данных и драйверных коэффициентов роста
 - Провожу план-факт анализ, объясняю отклонения и выявляю их причины
 - Анализирую как внешний контур (рынок, конкуренты), так и внутренний (метрики продукта)
-
+ <br>
+ 
  ### Мой технический стек:
 
 - MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
@@ -37,19 +38,18 @@
 - Python (базово — предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
 - Power BI, Tableau, Data Lens, 1С
 - Figma, Miro, Power Point, Adobe
+ <br>
 
-
-   <h3 style="margin-top: 0;"> Контакты: </h3>
+<h3 style="margin-top: 0;"> Контакты: </h3>
       <ul style="margin: 0;">
         <li> Saint-Petersburg</li>
         <li> Phone: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
         <br>
-
-       
+      
  <br>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none; height: 20 px;" />
@@ -61,4 +61,3 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
-
