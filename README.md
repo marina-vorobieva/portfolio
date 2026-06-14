@@ -1,5 +1,5 @@
 ## Marina Vorobieva
-#**Data analyst: Commercial, Marketing, Marketplace**
+# **Data analyst: Commercial, Marketing, Marketplace**
  
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="60" style="margin-right: 10 px;">
@@ -11,10 +11,11 @@
        В последние годы все больше интересуюсь аналитикой. Мне нравится автоматизировать процессы с помощью языков программирования.</li>
        Я в поиске нового захватывающего опыта в сегменте e-commerce.</li>
         <br>
+      <br>
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
   </div>
   </div>
-
+ <br>
   ### Мои кейсы портфолио: 
 
 | **Анализ данных в Excel, подготовка отчетов** | **Анализ данных: Python и SQL** |
