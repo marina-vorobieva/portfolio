@@ -39,7 +39,7 @@
 - Figma, Miro, Power Point, Adobe
  <br>
 
-<h3 style="margin-top: 0;"> Контакты: </h3>
+<h2 style="margin-top: 0;"> Контакты: </h2>
       <ul style="margin: 0;">
         <li> Saint-Petersburg</li>
         <li> Phone: +7 931 101-50-56</li>
