@@ -34,8 +34,8 @@
  ### Мой технический стек:
 
 - MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
-- SQL (базово — JOIN, оконные функции): SQLite, PosgreSql
-- Python (базово — предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
+- SQL (JOIN, оконные функции): SQLite, PosgreSql
+- Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
 - Power BI, Tableau, Data Lens, 1С
 - Figma, Miro, Power Point, Adobe
  <br>
