@@ -1,5 +1,5 @@
 # Марина Воробьева, продуктовый / коммерческий аналитик
-  <br>
+
   <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="pointer-events: none; height: 20 px;" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
-
+ <br>
 
 <h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
 Я аналитик маркетплейсов с опытом в сегменте pharma. Мой опыт включает навыки: автоматизации отчетности (MDX/Olap), анализ unit-экономики, ценообразования, моделей логистики. Работала с 7 маркетплейсами, прогнозировала эффект и запускала новые площадки (Wildberries, Мегаптека), а также промо-акции. Сейчас мой основной фокус — продуктовая и коммерческая аналитика. Ищу проект, где смогу применить навыки SQL и Python для масштабирования продуктовых метрик, а также для создания эффективной системы аналитики.  <br>
