@@ -47,11 +47,11 @@
 - City&Guilds First Certificate ESOL — English B2 (fluent), 2008
 
 
-
 <h2 style="margin-top: 0;"> 🔹Контакты: </h2>
       <ul style="margin: 0;">
-        <li> Формат работы: remote, hubrid / Локация: г. Санкт-Петербург (+3:00 Msc) </li>
+        <li> Формат работы: удаленно, гибрид </li>
+        <li> Локация: г. Санкт-Петербург (+3:00 Msc)</li>
         <li> Мобильный: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
-        <li> Telegram nick: @marisabellich</li>
+        <li> Telegram: @marisabellich</li>
         <br>
