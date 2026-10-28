@@ -40,11 +40,11 @@
 
 ### 🔹Образование: 
 
-СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), специалист, 2009-2015 — Высшее
+СПБГЭУ (ИНЖЭКОН) — маркетинг (маркетинговый анализ), 2009-2015 — Высшее, специалист
   
 Дополнительное:
 - Sigma Academy, MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
-- City&Guilds First Certificate ESOL — English B2 (fluent), 2008
+- City&Guilds First Certificate ESOL — English Communicator B2 (fluent), 2008
 
 
 <h2 style="margin-top: 0;"> 🔹Контакты: </h2>
