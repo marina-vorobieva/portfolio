@@ -47,7 +47,7 @@
 
 <h2 style="margin-top: 0;"> 🔹Контакты: </h2>
       <ul style="margin: 0;">
-        <li> Локация: г. Санкт-Петербург (+3:00 Msc)</li>
+        <li> Локация: г. Санкт-Петербург (+3:00)</li>
         <li> Мобильный тел.: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
